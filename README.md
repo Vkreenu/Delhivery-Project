@@ -1,1 +1,3 @@
 # Delhivery-Project
+
+This project focuses on enhancing the quality, efficiency, and profitability of the company by processing data from engineering pipelines. The goal is to clean, sanitize, and manipulate raw data to extract meaningful features, which will be crucial for building accurate forecasting models. Key tasks include feature creation, analyzing relationships between features, normalizing and standardizing columns, handling categorical values, and addressing missing values and outliers. By refining these processes, the project will empower the data science team to create more robust models, giving the company a competitive edge in the market.
